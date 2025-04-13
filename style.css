@@ -22,7 +22,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: white; /* Text color to contrast with the background */
+  color: rgb(255, 255, 255); /* Text color to contrast with the background */
   text-align: center;
   padding: 20px;
 }
